@@ -14,3 +14,4 @@ class Song
     @@all
   end
 end
+rap = Genre.new("rap")
